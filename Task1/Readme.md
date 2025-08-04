@@ -8,7 +8,6 @@ Perform a basic network reconnaissance to identify open ports and services on de
 ## 🛠 Tools Used
 - **Nmap**: For scanning the network and identifying open TCP ports.
 - **ifconfig**: To determine local IP and subnet range.
-- *(Optional)* **Wireshark**: For analyzing packets during the scan.
 
 ---
 
