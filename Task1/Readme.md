@@ -24,6 +24,7 @@ Perform a basic network reconnaissance to identify open ports and services on de
 ### 🔸 Step 1: Discover Network Range
 ```bash
 ifconfig
+```
 -----------------------------------------------
 | IP Address | Open Ports      | Services     |
 | ---------- | --------------- | ------------ |
