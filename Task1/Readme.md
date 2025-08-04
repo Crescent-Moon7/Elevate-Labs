@@ -35,14 +35,15 @@ ifconfig
 -----------------------------------------------
 
 💡 Key Learnings
-Understood CIDR, port scanning, and service identification.
 
-Practiced basic cyber reconnaissance methodology.
+- Understood CIDR, port scanning, and service identification.
+
+- Practiced basic cyber reconnaissance methodology.
 
 🔐 Basic Security Analysis
-Port 135 (msrpc) and 445 (microsoft-ds): These are Windows ports often targeted by malware (e.g., EternalBlue). Should be firewalled off from untrusted networks.
+- Port 135 (msrpc) and 445 (microsoft-ds): These are Windows ports often targeted by malware (e.g., EternalBlue). Should be firewalled off from untrusted networks.
 
-Port 1001 (webpush): Custom or misconfigured service. Should be investigated.
+- Port 1001 (webpush): Custom or misconfigured service. Should be investigated.
 
-Port 53 (DNS): Common and essential, but if misconfigured, can be abused for DNS amplification attacks.
+- Port 53 (DNS): Common and essential, but if misconfigured, can be abused for DNS amplification attacks.
 
